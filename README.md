@@ -1,6 +1,10 @@
 # Flappy-Bird-AI
 A game of Flappy Bird played by AI! Made in Python using Pygame
 
+To play, go to the page where you see this file and click "Clone" or "Code" on the top - right hand side. Then download to zip folder, extract it and run main.py!
+
+Please leave your feedback in the comments, star the project and follow me!
+
 Requirements:
 Neat
 Pygame
